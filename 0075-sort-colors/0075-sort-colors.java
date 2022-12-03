@@ -1,3 +1,5 @@
+//using count sorting
+
 class Solution {
     public void sortColors(int[] nums) {
         int z=0,o=0, t=0;
